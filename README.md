@@ -1,12 +1,8 @@
 <h1 align="center">Hi there, I'm Kaung Myat Wai Yan 👋</h1>
 
-<p align="center">
-  Welcome to my GitHub profile!
-</p>
-
 I'm a medical doctor turned Health Data Scientist. I build data pipelines, machine learning models, and simulations to solve complex clinical and operational challenges in healthcare. Currently working at NHS England (London Region), I'm passionate about reproducible analytics (RAP) and leveraging tools like Python, Databricks, and PySpark to make sense of messy health data.
 
-### 🤖 ML
+### 🤖 Machine Learning
 - **CKD Risk Prediction Model**  
   *Supervised machine learning pipeline built in Python to predict undiagnosed Chronic Kidney Disease. Designed to handle highly imbalanced healthcare datasets with a focus on model explainability for clinical interpretability.*
 - **Mental Health Services ML Package**  
